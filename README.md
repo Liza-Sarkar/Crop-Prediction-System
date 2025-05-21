@@ -1,3 +1,5 @@
+Crop Prediction System
+
 A machine learning-based web application that recommends the most suitable crop to grow based on environmental conditions such as temperature, humidity, pH, water availability, and season.
 
 Overview
